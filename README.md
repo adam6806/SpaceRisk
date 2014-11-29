@@ -7,6 +7,7 @@ This project is the result of a desire to increase my own knowledge of technolog
 
 Technologies this project will employ:
 
+  * Linux
   * PostgreSQL database
   * Wildfly application server
   * Java 8
