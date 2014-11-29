@@ -8,11 +8,12 @@ This project is the result of a desire to increase my own knowledge of technolog
 Technologies this project will employ:
 
   * Linux
-  * PostgreSQL database
-  * Wildfly application server
-  * Java 8
+  * PostgreSQL 9.3
+  * Wildfly 8
+  * Java SDK 8
+  * Java EE 7
   * Angular JS
-  * Netbeans IDE
+  * Netbeans 8
   * Maven
   * Github
   
