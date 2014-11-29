@@ -7,9 +7,12 @@ This project is the result of a desire to increase my own knowledge of technolog
 
 Technologies this project will employ:
 
-  PostgreSQL database
-  Wildfly application server
-  Java 8
-  Angular JS
+  *PostgreSQL database
+  *Wildfly application server
+  *Java 8
+  *Angular JS
+  *Netbeans IDE
+  *Maven
+  *Github
   
 If you own Risk or Words With Friends please don't sue me :) 
